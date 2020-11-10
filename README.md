@@ -1,7 +1,7 @@
  <h1 align="center">Hi there, This is Harsh Raj. 👋</h1>
 
-<div align="center">[![Website](https://img.shields.io/website?label=harshraj.xyz&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://harshraj.xyz)
-
+[![Website](https://img.shields.io/website?label=harshraj.xyz&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://harshraj.xyz)
+<div align="center">
 ## I'm a Front End Developer and enjoys learning new Techs !!
 - 🔭 I’m currently a Final year Student @ Asansol Engineering College
 - 🌱 I’m currently learning React
