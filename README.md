@@ -1,4 +1,4 @@
-### Hi there, This is Harsh Raj. 👋
+ <h1 align="center">Hi there, This is Harsh Raj. 👋</h1>
 
 [![Website](https://img.shields.io/website?label=harshraj.xyz&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://harshraj.xyz)
 
