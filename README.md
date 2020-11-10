@@ -1,6 +1,6 @@
  <h1 align="center">Hi there, This is Harsh Raj. 👋</h1>
 
-[![Website](https://img.shields.io/website?label=harshraj.xyz&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://harshraj.xyz)
+<div align="center">[![Website](https://img.shields.io/website?label=harshraj.xyz&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://harshraj.xyz)
 
 ## I'm a Front End Developer and enjoys learning new Techs !!
 - 🔭 I’m currently a Final year Student @ Asansol Engineering College
@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I Love to play Guitar
-
+</div>
 
 ### Spotify Playing 🎧
 
