@@ -1,6 +1,6 @@
-###      <t>      👋   Hi, This is Harsh Raj
+### 👋   Hi, This is Harsh Raj
 <br>
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://harshraj.xyz)
+[![Website](https://img.shields.io/website?label=harshraj.xyz&style=for-the-badge)](https://harshraj.xyz)
 
 - 🔭 I’m currently a Final year Student @ Asansol Engineering College
 - 🌱 I’m currently learning React
