@@ -3,12 +3,14 @@
 [![Website](https://img.shields.io/website?label=harshraj.xyz&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://harshraj.xyz)
 
 ## I'm a Front End Developer and enjoys learning new Techs !!
-
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I’m currently a Final year Student @ Asansol Engineering College
+- 🌱 I’m currently learning React
+- 👯 I’m looking to collaborate on Front End Technologies
+- 📫 How to reach me : https://harshraj.xyz
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I Love to play Guitar
+
 
 ### Spotify Playing 🎧
 
