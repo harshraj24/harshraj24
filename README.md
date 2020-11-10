@@ -2,14 +2,14 @@
 
 [![Website](https://img.shields.io/website?label=harshraj.xyz&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://harshraj.xyz)
 
-<h1 align="center"> I'm a Front End Developer and enjoys learning new Techs !!</h1>
-<h3 align="center">- 🔭 I’m currently a Final year Student @ Asansol Engineering College</h3>
-<h3 align="center">- 🌱 I’m currently learning React</h3>
-<h3 align="center">- 👯 I’m looking to collaborate on Front End Technologies</h3>
-<h3 align="center">- 📫 How to reach me: https://harshraj.xyz</h3>
-<h3 align="center">- 👯 I’m looking to collaborate with other content creators</h3>
-<h3 align="center">- 🥅 2020 Goals: Contribute more to Open Source projects</h3>
-<h3 align="center">- ⚡ Fun fact: I Love to play Guitar</h3>
+<h2 align="center"> I'm a Front End Developer and enjoys learning new Techs !!</h1>
+<h5 align="center">- 🔭 I’m currently a Final year Student @ Asansol Engineering College</h5>
+<h5 align="center">- 🌱 I’m currently learning React</h5>
+<h5 align="center">- 👯 I’m looking to collaborate on Front End Technologies</h5>
+<h5 align="center">- 📫 How to reach me: https://harshraj.xyz</h5>
+<h5 align="center">- 👯 I’m looking to collaborate with other content creators</h5>
+<h5 align="center">- 🥅 2020 Goals: Contribute more to Open Source projects</h5>
+<h5 align="center">- ⚡ Fun fact: I Love to play Guitar</h5>
 
 
 ### Spotify Playing 🎧
