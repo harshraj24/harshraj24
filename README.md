@@ -1,6 +1,6 @@
 ### Hi there, This is Harsh Raj. 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
+[![Website](https://img.shields.io/website?label=harshraj.xyz&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://harshraj.xyz)
 
 ## I'm a Front End Developer and enjoys learning new Techs !!
 
