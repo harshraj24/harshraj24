@@ -14,7 +14,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem-three-lac.vercel.app/api/spotify-playing" alt="Harsh Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[![Spotify](https://novatorem-three-lac.vercel.app/api/spotify)](https://open.spotify.com/user/thercxq2ompbmkk8pjc2wytdw)
 
 <h2 align="center">Connect with me: </h2>
 
