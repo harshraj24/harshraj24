@@ -6,7 +6,7 @@
 <h4 align="center">- 🔭 I’m a Computer Science Graduate from Asansol Engineering College</h4>
 <h4 align="center">- 🌱 I’m currently learning SwiftUI</h4>
 <h4 align="center">- 👯 I’m looking to collaborate on Front End Technologies</h4>
-<h4 align="center">- 📫 How to reach me: https://harshraj.xyz</h4>
+<h4 align="center">- 📫 How to reach me: https://harshraj24.github.io/Portfolio/</h4>
 <h4 align="center">- 👯 I’m looking to collaborate with other content creators</h4>
 <h4 align="center">- 🥅 2022 Goals: Contribute more to Open Source projects</h4>
 <h4 align="center">- ⚡ Fun fact: I Love to play Guitar</h4>
