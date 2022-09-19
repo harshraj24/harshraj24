@@ -1,6 +1,6 @@
  <h1 align="center">Hi there, This is Harsh Raj. 👋</h1>
 
-<span align="center">[![Website](https://img.shields.io/website?label=harshraj.xyz&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://harshraj.xyz)<span>
+<span align="center">[![Website](https://img.shields.io/website?label=MyWebsite&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://harshraj24.github.io/Portfolio/)<span>
 
 <h2 align="center"> I'm an iOS Developer and enjoys learning new Techs !!</h1>
 <h4 align="center">- 🔭 I’m a Computer Science Graduate from Asansol Engineering College</h4>
@@ -11,10 +11,6 @@
 <h4 align="center">- 🥅 2022 Goals: Contribute more to Open Source projects</h4>
 <h4 align="center">- ⚡ Fun fact: I Love to play Guitar</h4>
 
-
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem-three-lac.vercel.app/api/spotify)](https://open.spotify.com/user/thercxq2ompbmkk8pjc2wytdw)
 
 ### Connect with me:
 
